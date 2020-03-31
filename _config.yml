@@ -9,6 +9,8 @@ url: "" # the base hostname & protocol for your site
 # Comments
 disqus_shortname:   default
 
+words_per_minute: 250
+
 # Social
 analytics-id:       UA-160197699-1
 twitter:            TEGNicholas
@@ -31,6 +33,7 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     author: Tom Nicholas
+    read_time: true
 
 # Jekyll
 permalink:          /blog/:title/
