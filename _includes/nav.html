@@ -2,6 +2,7 @@
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
   <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Posts</a></li>
+  <li class="{% if page.url contains '/contact/' %} active {% endif %}"><a href="{{ "/contact/" | absolute_url }}">Contact</a></li>
 </ul>
 
 <ul class="icons">
