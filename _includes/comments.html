@@ -1,0 +1,14 @@
+{% if page.comments %}
+          <div class="comments-wrapper">
+          <div id="utterances_comments"></div>
+          <script src="https://utteranc.es/client.js"
+                  repo="tomnicholas/tomnicholas.github.io"
+                  issue-term="title"
+                  label="post comments 💬"
+                  theme="github-light"
+                  crossorigin="anonymous"
+                  async>
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="https://utteranc.es/" rel="nofollow">comments powered by Utterances.</a></noscript>
+          </div><!-- /.comments-wrapper -->
+          {% endif %}

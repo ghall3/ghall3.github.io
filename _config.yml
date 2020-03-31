@@ -6,9 +6,6 @@ locale:             en_UK
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
-# Comments
-disqus_shortname:   default
-
 words_per_minute: 250
 
 # Social
@@ -34,6 +31,7 @@ defaults:
     layout: post
     author: Tom Nicholas
     read_time: true
+    comments: true
 
 # Jekyll
 permalink:          /blog/:title/
