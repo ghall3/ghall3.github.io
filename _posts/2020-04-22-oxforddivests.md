@@ -10,6 +10,7 @@ image: "/images/st-johns-protests.jpg"
 ---
 
 Oxford University's academic congregation has passed a landmark divestment motion.
+You can read the student newspaper [coverage here](https://www.oxfordstudent.com/2020/04/20/oxford-university-passes-motion-banning-investment-in-fossil-fuels/).
 
 I wasn't directly involved in this achievement, but I do personally know a lot of the key people who worked hard to make this happen, and I want to clarify a few things:
 
