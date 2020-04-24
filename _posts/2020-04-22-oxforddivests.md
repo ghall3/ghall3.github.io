@@ -43,6 +43,19 @@ Multiple colleges have divested over several years, but the decentralised system
 Campaigning on this has been going on for years, several colleges divested a few years ago, and this particular motion was organised and proposed (and expected to pass) last term, before the major oil price drop due to Coronavirus.
 Obviously it won't have hurt that oil is now a worse investment, but it would probably have passed anyway thanks to all the activism and organising that went on.
 
+In fact we can quantify how much money the student campaign has moved out of fossil fuels in the lead up to this announcement.
+This year alone Oxford pulled out of £30 million in fossil fuel investments, bringing the overall percentage of funds invested (indirectly) in fossil fuels from 1.7% to 0.6%.
+Over the past 10 years while the campaign has kept pressure on the endowment managers they have brought the percentage from over 7% of the 3 billion to 0.6%.
+That’s more than £200 million in fossil fuel divestment that had already happened before this announcement!
+The remaining 0.5% percent of the endowment is expected to continue to fall with these new measures, in particular because the engagement criteria is so strict.
+
+- **It's more than just direct investments**
+
+This is all referring to money invested through multiple managed funds, none of these investments are directly into e.g. Shell.
+The managed funds are allocated across the economy (as is common in investing to try and spread risk), including some fraction in fossil fuels.
+
+These subtleties mean that some universities' "divestments" are much less complete than what Oxford has just announced, because those universities only prohibited direct investments into fossil fuels.
+
 - **Some key climate academics pulled their weight**
 
 One of the breakthroughs for the student divestment campaign was getting some very influential Oxford academics on board pushing for divestment, both publicly and internally.
@@ -63,7 +76,9 @@ However some of the [(carefully-worded) language in the motion](https://gazette.
 This means if a company can demonstrate serious progress towards becoming carbon-neutral then the university wouldn't consider them to be requiring of divestment.
 The only (non-greenwashing) way a fossil fuel company could become net-zero in reality is through large-scale deployment geologic Carbon Capture and Storage, and this engagement clause is designed to encourage development of those technologies.
 The motion isn't supposed to allow space for these companies to simply pay for lots of ineffectual tree-planting offsets, for example.
+It's worth emphasising (and well-understood by the motion's authors) that not a single fossil fuel company has a credible hard net zero target yet, let alone strategy.
 This topic is worth several articles in itself, but suffice to say that those two academics mentioned in particular have complex and expert views on the role of fossil fuel companies in the future and a lot of the more detailed thought on this point reflects their involvement.
+
 
 - **The real value of the move is hard to quantify**
 
